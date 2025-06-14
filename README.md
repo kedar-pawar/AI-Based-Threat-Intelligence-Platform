@@ -18,12 +18,12 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 
 
 ### Result 1
-![Result](![image](https://github.com/user-attachments/assets/d7380107-4932-42a3-9730-07d417700274)
-)
+![Result]![image](https://github.com/user-attachments/assets/d7380107-4932-42a3-9730-07d417700274)
+
 
 ### Result 2
-![Result](![image](https://github.com/user-attachments/assets/be57acc6-9067-4a05-b868-326cb46f5951)
-)
+![Result]![image](https://github.com/user-attachments/assets/be57acc6-9067-4a05-b868-326cb46f5951)
+
 
 
 ---
