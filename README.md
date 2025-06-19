@@ -23,7 +23,7 @@ The **AI-Based Threat Intelligence Platform** is a real-time cybersecurity syste
 | Frontend      | Angular, TypeScript, Tailwind CSS |
 | Backend       | FastAPI, Python, PostgreSQL       |
 | ML Pipeline   | scikit-learn, TensorFlow, Kafka   |
-| Infrastructure| Docker, Kubernetes, Redis, AWS    |
+
 
 
 
