@@ -25,29 +25,6 @@ The **AI-Based Threat Intelligence Platform** is a real-time cybersecurity syste
 | ML Pipeline   | scikit-learn, TensorFlow, Kafka   |
 | Infrastructure| Docker, Kubernetes, Redis, AWS    |
 
-## 📂 Project Structure
-AI-Based-Threat-Intelligence-Platform/
-│
-├── 1. Ideation Phase/
-│       └── Empathy Map, Brainstorming Docs, Initial Concepts
-│
-├── 2. Project Design Phase/
-│       └── DFDs, System Design, Architecture Diagrams
-│
-├── 3. Project Development Phase/
-│       └── Features Implementation & Core Modules
-│
-├── 4. Project Planning Phase/
-│       └── Sprints, Timelines, Risk Management
-│
-├── 5. Performance and final Solution/
-│       └── Testing Reports, Metrics, Results
-│
-├── backend/
-│   └── FastAPI-based microservices, ML models, APIs
-│
-└── frontend/
-    └── Angular components, services, UI pages
 
 
 ## 🎬 Demo
